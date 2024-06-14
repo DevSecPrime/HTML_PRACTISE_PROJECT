@@ -1,0 +1,51 @@
+body{
+    background: yellowgreen;
+}
+
+
+.city{
+    background-color: rgb(0, 0, 0);
+  color: white;
+  border: 12px solid rgb(235, 17, 17);
+  margin: 20px;
+  padding: 20px;
+}
+
+.note
+{
+    font-size: 200%;
+    color: rgb(198, 23, 23);
+    background-color: aqua;
+}
+
+h2{
+    color: blue;
+    padding: 2px;
+    margin: 3px;
+}
+
+div
+{
+    border: 2px solid grey;
+    padding: 23px;
+    margin: 23px;
+}
+
+#myform
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+input
+{
+    padding:10px;
+    margin-left: 4px;
+    margin: 12px;
+}
+
+#myMail
+{
+    margin-left: 22px;
+}
